@@ -1,0 +1,7 @@
+{
+  "name": "NomadPath",
+  "description": "Travel expense analyzer and trip planner in Indian Rupees (₹), featuring nature vibe exploration across Earth biomes, multi-modal travel comparisons, and premier high-altitude trekking trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
